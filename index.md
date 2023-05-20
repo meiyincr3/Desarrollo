@@ -13,4 +13,4 @@ Welcome to my repository - Bienvenido a mi repositorio!!
 * Basic Shell programming
 
 ## Contact me 
-* Instagram: [instagram.com](https://www.instagram.com/meiyincr_3/)
+* Instagram: [@meiyincr_3](https://www.instagram.com/meiyincr_3/)
