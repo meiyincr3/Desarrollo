@@ -1,11 +1,16 @@
-# Proyecto01
-Mi repositorio para Desarrollo de Aplicaciones web y moviles
 
-- Parcial 1
-- Parcial 2
+#Hi!! I am Meiyin Chang
 
-Bienvenido a mi repositorio!! 
-Soy Meiyin Chang Rizzo, estudiante de la carrera de Computación en ESPOL.
-**Lenguajes de programación aprendidos:**
+Welcome to my repository - Bienvenido a mi repositorio!! 
+
+## Projects
+* 
+* 
+
+## Programming languages:
 * Python
 * Java
+* Basic Shell programming
+
+## Contact me 
+* Instagram: [instagram.com](https://www.instagram.com/meiyincr_3/)
